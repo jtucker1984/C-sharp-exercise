@@ -1,0 +1,15 @@
+/Users/jeremytucker/Desktop/Repos/dotNetConsole/bin/Debug/net6.0/dotNetConsole
+/Users/jeremytucker/Desktop/Repos/dotNetConsole/bin/Debug/net6.0/dotNetConsole.deps.json
+/Users/jeremytucker/Desktop/Repos/dotNetConsole/bin/Debug/net6.0/dotNetConsole.runtimeconfig.json
+/Users/jeremytucker/Desktop/Repos/dotNetConsole/bin/Debug/net6.0/dotNetConsole.dll
+/Users/jeremytucker/Desktop/Repos/dotNetConsole/bin/Debug/net6.0/dotNetConsole.pdb
+/Users/jeremytucker/Desktop/Repos/dotNetConsole/obj/Debug/net6.0/dotNetConsole.csproj.AssemblyReference.cache
+/Users/jeremytucker/Desktop/Repos/dotNetConsole/obj/Debug/net6.0/dotNetConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeremytucker/Desktop/Repos/dotNetConsole/obj/Debug/net6.0/dotNetConsole.AssemblyInfoInputs.cache
+/Users/jeremytucker/Desktop/Repos/dotNetConsole/obj/Debug/net6.0/dotNetConsole.AssemblyInfo.cs
+/Users/jeremytucker/Desktop/Repos/dotNetConsole/obj/Debug/net6.0/dotNetConsole.csproj.CoreCompileInputs.cache
+/Users/jeremytucker/Desktop/Repos/dotNetConsole/obj/Debug/net6.0/dotNetConsole.dll
+/Users/jeremytucker/Desktop/Repos/dotNetConsole/obj/Debug/net6.0/refint/dotNetConsole.dll
+/Users/jeremytucker/Desktop/Repos/dotNetConsole/obj/Debug/net6.0/dotNetConsole.pdb
+/Users/jeremytucker/Desktop/Repos/dotNetConsole/obj/Debug/net6.0/dotNetConsole.genruntimeconfig.cache
+/Users/jeremytucker/Desktop/Repos/dotNetConsole/obj/Debug/net6.0/ref/dotNetConsole.dll
